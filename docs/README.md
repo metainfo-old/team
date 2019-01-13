@@ -4,22 +4,11 @@
 
 ## Фонд FURRY
 
-#### Модераторы
-
-* Kitsune Solar
-
-#### Инженеры
-
-* Skumen
-* Карамелька
-
-#### Хранители снов
-
-* 2RyU2
-
-#### Дворецкие
-
-* 2RyU2
+* [Izoniazid](izoniazid)
+* [Kitsune Solar](kitsune_solar)
+* [Ryu](ryu)
+* [Skumen](skumen)
+* [Карамелька](caramel)
 
 ## Фонд SYSADMINS
 
