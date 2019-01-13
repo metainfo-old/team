@@ -7,5 +7,6 @@
 - ВКонтакте
   - [Юрий Дунаев](https://vk.com/id309156339)
   - [Kitsune Solar](https://vk.com/public94099033)
+  - [Сообщество FURRY / ФУРРИ](https://vk.com/public141977955)
 - GitHub
   - [Kitsune Solar](https://github.com/KitsuneSolar)
