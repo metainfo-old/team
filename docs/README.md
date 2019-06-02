@@ -4,10 +4,10 @@
 
 ## Фонд FURRY
 
-* [Dremora](dremora)
-* [Ryu](ryu)
-* [Skumen](skumen)
-* [VaNgOg](vangog)
+* [Dremora (Инженер)](dremora)
+* [Ryu (Администратор)](ryu)
+* [Skumen (Администратор)](skumen)
+* [VaNgOg (Администратор)](vangog)
 
 ## Фонд SYSADMINS
 
