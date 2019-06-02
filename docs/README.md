@@ -7,7 +7,7 @@
 * [Dremora (Инженер)](dremora)
 * [Ryu (Администратор)](ryu)
 * [Skumen (Администратор)](skumen)
-* [VaNgOg (Администратор)](vangog)
+* [2VaNgOg2 (Администратор)](vangog)
 
 ## Фонд SYSADMINS
 
