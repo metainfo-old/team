@@ -8,6 +8,7 @@
 * [Ryu (Администратор)](ryu)
 * [Skumen (Администратор)](skumen)
 * [2VaNgOg2 (Администратор)](vangog)
+* [Grzegorz_Brzeczyszczykiewicz (Дворецкий)](Grzegorz_Brzeczyszczykiewicz)
 
 ## Фонд SYSADMINS
 
