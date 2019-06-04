@@ -1,7 +1,5 @@
 Ниже представлены участники управляющего состава, контролирующие развитие фондов.
 
-## Фонд METADATA
-
 ## Фонд FURRY
 
 * [Ryu (Администратор)](ryu)
@@ -10,7 +8,3 @@
 * [Dremora (Инженер)](dremora)
 * [ChocoChip (Дворецкий)](ChocoChip)
 * [Grzegorz_Brzeczyszczykiewicz (Дворецкий)](Grzegorz_Brzeczyszczykiewicz)
-
-## Фонд SYSADMINS
-
-## Фонд WEBMASTERS
