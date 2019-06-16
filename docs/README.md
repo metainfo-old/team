@@ -3,6 +3,8 @@
 ## Фонд FURRY
 
 * [Skumen (Администратор)](skumen)
-* [Dremora (Модератор)](dremora)
+* [Ryu (Администратор)](ryu)
+* [VaNgOg (Администратор)](vangog)
+* [Dremora (Администратор)](dremora)
 * [ChocoChip (Дворецкий и Хранитель снов)](ChocoChip)
 * [Grzegorz_Brzeczyszczykiewicz (Инженер)](Grzegorz_Brzeczyszczykiewicz)
