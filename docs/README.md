@@ -4,7 +4,8 @@
 
 * [Skumen (Администратор)](skumen)
 * [Ryu (Администратор)](ryu)
-* [VaNgOg (Администратор)](vangog)
+* [2VaNgOg2 (Администратор)](vangog)
 * [Dremora (Администратор)](dremora)
 * [ChocoChip (Дворецкий и Хранитель снов)](ChocoChip)
 * [Grzegorz_Brzeczyszczykiewicz (Инженер)](Grzegorz_Brzeczyszczykiewicz)
+* [Oyle](Oyle)
