@@ -8,4 +8,4 @@
 * [Dremora (Администратор)](dremora)
 * [ChocoChip (Дворецкий и Хранитель снов)](ChocoChip)
 * [Grzegorz_Brzeczyszczykiewicz (Инженер)](Grzegorz_Brzeczyszczykiewicz)
-* [Oyle](Oyle)
+* [Oyle (Дворецкий)](Oyle)
