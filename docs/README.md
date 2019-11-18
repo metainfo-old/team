@@ -5,7 +5,6 @@
 * [Skumen#3312 (Администратор)](skumen)
 * [Ryu#6666 (Администратор)](ryu)
 * [2VaNgOg2#2378 (Администратор)](vangog)
-* [ChocoChip#9884 (Дворецкий и Хранитель снов)](ChocoChip)
+* [ChocoChip#9884 (Дворецкий)](ChocoChip)
 * [Gricz#5947 (Инженер)](Grzegorz_Brzeczyszczykiewicz)
-* [Oyle#8920 (Дворецкий и Хранитель снов)](Oyle)
 
