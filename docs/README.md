@@ -8,4 +8,5 @@
 * [ChocoChip#9884 (Инженер)](ChocoChip)
 * [Gricz#5947 (Инженер)](Grzegorz_Brzeczyszczykiewicz)
 * [Lick#9999 (Дворецкий)](lick)
+* [Oyle#8920 (Дворецкий)](Oyle)
 
