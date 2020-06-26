@@ -5,7 +5,6 @@
 * [Skumen#3312 (Администратор)](skumen)
 * [Ryu#6666 (Администратор)](ryu)
 * [2VaNgOg2#2378 (Администратор)](vangog)
-* [ChocoChip#9884 (Инженер)](ChocoChip)
 * [Caramel#1453 (Инженер)](caramel)
 * [Lick#9999 (Дворецкий)](lick)
 * [Oyle#8920 (Дворецкий)](Oyle)
