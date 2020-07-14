@@ -9,4 +9,7 @@
 * [ChocoChip#9999 (Дворецкий)](ChocoChip)
 * [Lick#9999 (Дворецкий)](lick)
 * [Oyle#8920 (Дворецкий)](Oyle)
+* [ℱeNnEc#7027 (Стажёр)](FeNnEc)
+* [TeaTzy#5625 (Стажёр)](TeaTzy)
+* [ClatySound#0666 (Стажёр)](ClatySound)
 
