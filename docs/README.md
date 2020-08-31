@@ -7,7 +7,6 @@
 * [2VaNgOg2#2378 (Администратор)](vangog)
 * [Oyle#8920 (СТ.Инженер)](Oyle)
 * [Caramel#1453 (Инженер)](caramel)
-* [ChocoChip#9999 (Дворецкий)](ChocoChip)
 * [Lick#9999 (Дворецкий)](lick)
 * [ℱeNnEc#7027 (Стажёр)](FeNnEc)
 * [TeaTzy#5625 (Стажёр)](TeaTzy)
