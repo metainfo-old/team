@@ -3,7 +3,7 @@
 ## Фонд FURRY
 
 * [Skumen#3312 (Администратор)](skumen)
-* [Ryu#6666 (Администратор)](ryu)
+* [Kitsune Solar#4381 (Администратор)](kitsune_solar)
 * [2VaNgOg2#2378 (Администратор)](vangog)
 * [Oyle#8920 (СТ.Инженер)](Oyle)
 * [Caramel#1453 (Инженер)](caramel)
