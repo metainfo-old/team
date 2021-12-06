@@ -1,0 +1,1 @@
+American hyena from Raleigh, North Carolina. Helps with advanced English as well as other native English speakers. Can't speak Russian well, but tries anyway. Likes whiskey and tabasco, buying books and never reading them, and strange memes. 23 years old, Furry since 2004.
